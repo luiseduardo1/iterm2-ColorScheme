@@ -1,7 +1,7 @@
 # My iTerm2 theme
 
 
-![Screenshot of my shell prompt](http://i.imgur.com/KWkWs7J.png)
+![Screenshot of my shell prompt](http://i.imgur.com/pcuebXm.png)
 
 ### Install using git
 
